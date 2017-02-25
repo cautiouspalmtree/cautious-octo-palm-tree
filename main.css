@@ -1,0 +1,22 @@
+h1 {
+	color: hotpink; 
+	font-size: 50px; 
+	font-family: 'Georgia', serif;
+}
+
+#shiny {
+	color: red;
+}
+#shiny2 {
+	color: orange;
+}
+img { 
+	width: 80%;
+	margin-left: 10%;
+	 }
+h1{
+	margin-left: 30%;
+}
+body {
+	background-color: lightblue;
+}
